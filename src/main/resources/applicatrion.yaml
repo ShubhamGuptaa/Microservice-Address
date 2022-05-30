@@ -1,0 +1,12 @@
+server:
+  port: 9005
+
+
+spring:
+  application:
+    name: address-micro
+
+
+eureka:
+  instance:
+    hostname: localhost
